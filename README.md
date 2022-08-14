@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on website development and React.
 - 📫 How to reach me http://wwww.linkedin.com/in/ebelechukwu-okolo-0490261b8 
 - My Email Address is dorisebele47@gmail.com and you can call me with 08135863394.
+-May 23rd 2022 i started my sofware engineering internship at Semicolon Africa
+-I am learning java,python and other things i will update later
 
 <!---
 Doris-Always/Doris-Always is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
